@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://websitetest10.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://websitetest10.github.io/</loc>
+</url>
+<url>
+<loc>https://websitetest10.github.io/the-guide-to-fragrances-a-mans-path-to-the-perfect-scent/</loc>
+<lastmod>2024-09-17T16:43:49+03:00</lastmod>
+<image:image>
+<image:loc>https://websitetest10.github.io/media/posts/2/Guide-to-choose-A-Man-Path-Perfect-Scent.webp</image:loc>
+<image:title><![CDATA[how to choose man perfume]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://websitetest10.github.io/the-ultimate-guide-choosing-perfect-perfume/</loc>
+<lastmod>2024-09-17T16:03:20+03:00</lastmod>
+<image:image>
+<image:loc>https://websitetest10.github.io/media/posts/1/Choosing-the-Perfect-Perfume.webp</image:loc>
+<image:title><![CDATA[The Ultimate Guide to Choosing the Perfect Perfume for You]]></image:title>
+</image:image>
+</url>
+</urlset>
